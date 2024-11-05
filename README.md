@@ -12,3 +12,10 @@ This repo contains the file structure and script to allow the most recent Hacker
 6. Export the HEC token to your virtual environment
 7. Paste the [/bin/fetch_hacker_news.py](/bin/fetch_hacker_news.py) from this repo into the same location in your $SPLUNK_HOME/etc/apps/ directory where the App you've just created will be located.
 8. Create a new panel in your Splunk Dashboard with this as the search input: index=* sourcetype=hacker_news_jobstories
+
+<br>
+
+    <p align="center">
+        <img src="https://github.com/hacker-news-jobs-splunk-dashboard/raw/main/files/images/Hacker_News_Dashboard.png"
+            width="405" alt="Hacker News Jobs Dashboard">
+    </p>
