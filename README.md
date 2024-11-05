@@ -1,4 +1,4 @@
-# Hacker News Jobs Splunk Dashboard
+# Hacker News Jobs Splunk Dashboard App
 
 This repo contains the file structure and script to allow the most recent HackerNews job postings to be collected via API and sent to a Splunk Dashboard.
 
