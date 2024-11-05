@@ -1,0 +1,24 @@
+[app/ui]
+version = 9.3.1
+modtime = 1730830864.746957000
+
+[app/launcher]
+version = 9.3.1
+modtime = 1730830864.749292000
+
+[views/hacker_news_dashboard]
+owner = splunk_admin
+version = 9.3.1
+modtime = 1730837980.491679000
+
+[inputs/http%3A%2F%2FHackerNewsApp]
+access = read : [ admin ], write : [ admin ]
+export = none
+owner = splunk_admin
+version = 9.3.1
+modtime = 1730833149.328149000
+
+[panels/1]
+owner = splunk_admin
+version = 9.3.1
+modtime = 1730835708.025395000
