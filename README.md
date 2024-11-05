@@ -1,2 +1,1 @@
-# hacker-news-jobs-splunk-dashboard
-Hacker News Jobs Splunk Dashboard
+# Hacker News Jobs Splunk Dashboard
