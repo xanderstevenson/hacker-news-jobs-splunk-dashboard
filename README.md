@@ -15,7 +15,7 @@ This repo contains the file structure and script to allow the most recent Hacker
 
 <br>
 
-![image](https://github.com/hacker-news-jobs-splunk-dashboard/blob/main/images/Hacker_News_Dashboard.png)
+![image](https://github.com/xanderstevenson/hacker-news-jobs-splunk-dashboard/tree/main/images/Hacker_News_Dashboard.png)
 
     <p align="center">
         <img src="https://github.com/hacker-news-jobs-splunk-dashboard/raw/main/files/images/Hacker_News_Dashboard.png"
