@@ -15,6 +15,8 @@ This repo contains the file structure and script to allow the most recent Hacker
 
 <br>
 
+![image]([https://github.com/xanderstevenson/meeting-agenda-and-recap/blob/main/images/agneda.png](https://github.com/hacker-news-jobs-splunk-dashboard/raw/main/files/images/Hacker_News_Dashboard.png))
+
     <p align="center">
         <img src="https://github.com/hacker-news-jobs-splunk-dashboard/raw/main/files/images/Hacker_News_Dashboard.png"
             width="405" alt="Hacker News Jobs Dashboard">
