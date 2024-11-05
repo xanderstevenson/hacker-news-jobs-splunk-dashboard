@@ -5,7 +5,7 @@ This repo contains the file structure and script to allow the most recent Hacker
 ## Setup
 
 1. Download,  install, and setup Splunk Enterprise on you local system: https://www.splunk.com/
-2. Request a Develop license from Splunk, which you should receive via email.
+2. Request a Developer license from Splunk, which you should receive via email.
 3. Create a new App in your Splunk UI
 4. Create a new Dashboard in your Splunk app
 5. Obtain an HEC token from the Splunk settings UI
