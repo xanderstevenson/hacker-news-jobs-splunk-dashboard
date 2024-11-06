@@ -22,6 +22,8 @@ try:
     response.raise_for_status()
     job_story_ids = response.json()  # This will be a list of job story IDs
 
+    job_story_ids.reverse()
+
     for story_id in job_story_ids:
         item_url = item_url_template.format(id=story_id)
         item_response = requests.get(item_url)
